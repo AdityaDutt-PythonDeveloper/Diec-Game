@@ -15,12 +15,12 @@ let randomNumber2 = Math.floor(Math.random()*6)
 //creating a array of images
 // to change the dice images
 const images = [
-    "images/dice1.png", //0
-    "images/dice2.png", //1
-    "images/dice3.png", //2
-    "images/dice4.png", //3
-    "images/dice5.png", //4
-    "images/dice6.png" //5
+    "dice1.png", //0
+    "dice2.png", //1
+    "dice3.png", //2
+    "dice4.png", //3
+    "dice5.png", //4
+    "dice6.png" //5
 ];
 
 const imgTag1 = document.getElementById("img1")
